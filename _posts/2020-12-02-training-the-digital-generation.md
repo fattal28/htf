@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Training the Digital Generation 
+title: "010: Training the Digital Generation"
 subtitle: with Scott Vincent
 tags: [students, learning, entrepeneurship]
 comments: true

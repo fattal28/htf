@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Your Next Job in Tech
+title: "006: Your Next Job in Tech"
 subtitle: with Sam Franklin
 tags: [recruitment, tech, hr]
 comments: true

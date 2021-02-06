@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Student-Led Startups
+title: "003: Student-Led Startups"
 subtitle: with Annabel Strauss & Eliana Berger
 tags: [vc, startups, students, diversity]
 comments: true

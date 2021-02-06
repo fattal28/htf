@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Empowering the Modern Workforce
+title: "008: Empowering the Modern Workforce"
 subtitle: with Gabriela Hersham
 tags: [coworking, diversity, entrepeneurship]
 comments: true

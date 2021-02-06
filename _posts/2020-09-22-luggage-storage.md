@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Luggage Storage
+title: "004: Luggage Storage"
 subtitle: with Jacob Wedderburn-Day
 tags: [travel, storage]
 comments: true

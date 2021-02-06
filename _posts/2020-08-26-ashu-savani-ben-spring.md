@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Cyber Education
+title: "002: Cyber Education"
 subtitle: with Ashu Savani & Ben Spring
 tags: [hacking, cyber-security, learning]
 comments: true

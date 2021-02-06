@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Operating System for Your Start-Up
+title: "009: The Operating System for Your Start-Up"
 subtitle: with Anthony Rose
 tags: [startups, legal, investing]
 comments: true

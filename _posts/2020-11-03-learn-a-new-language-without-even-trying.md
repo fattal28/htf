@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Learn a New Language Without Even Trying
+title: "007: Learn a New Language Without Even Trying"
 subtitle: with Taylor Nieman
 tags: [chrome, learning, languages]
 comments: true

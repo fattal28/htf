@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Life Insurance That Pays You
+title: "014: Life Insurance That Pays You"
 subtitle: with Sammy Rubin
 tags: [insurance, gamification, wellness]
 comments: true
