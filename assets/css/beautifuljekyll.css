@@ -429,10 +429,11 @@ footer .footer-custom-content {
 .post-preview {
   padding: 1.25rem 1.25rem;
   border-radius: 10px;
-  background-color: #A7CCED;
+  background-color: #DDEBF8;
   border-bottom: 1px solid #eee;
   box-shadow: 3px 3px #e3e3e3;
   overflow: hidden;
+  margin-bottom: 20px;
 }
 
 @media (min-width: 768px) {
@@ -506,7 +507,7 @@ footer .footer-custom-content {
   max-width: 100%;
 }
 .post-preview .post-image-short {
-  margin-top: -2.1875rem;
+  margin-top: -1.25rem;
 }
 @media (max-width: 767px) {
   .post-preview .post-image {
