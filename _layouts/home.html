@@ -57,7 +57,7 @@ layout: page
     </div>
     {% endif %}
 
-    <!-- {% unless site.feed_show_excerpt == false %} -->
+    {% unless site.feed_show_excerpt == false %}
     {% if thumbnail != "" %}
     <div class="post-image post-image-short">
       <a href="{{ post.url | absolute_url }}" aria-label="Thumbnail">
@@ -74,7 +74,7 @@ layout: page
         <a href="{{ post.url | absolute_url }}" class="post-read-more">[Read&nbsp;More]</a>
       {% endif %}
     </div>
-    <!-- {% endunless %} -->
+    {% endunless %}
 
     {% if site.feed_show_tags != false and post.tags.size > 0 %}
     <div class="blog-tags">
