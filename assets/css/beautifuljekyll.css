@@ -427,8 +427,9 @@ footer .footer-custom-content {
 /* --- Post preview (feed) --- */
 
 .post-preview {
-  padding: 1.25rem 0;
-  background-color: #66A4D8;
+  padding: 1.25rem;
+  border-radius: 25px;
+  background-color: #A7CCED;
   border-bottom: 1px solid #eee;
   overflow: hidden;
 }
