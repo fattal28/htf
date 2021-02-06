@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Man Behind What Bitcoin Did
+title: "015: The Man Behind What Bitcoin Did"
 subtitle: with Peter McCormack
 tags: [crypto, bitcoin, podcasting]
 comments: true
