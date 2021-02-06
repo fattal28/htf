@@ -1,13 +1,10 @@
 ---
 layout: post
-title: Sample blog post (TEST)
-subtitle: Each post also has a subtitle
-gh-repo: daattali/beautiful-jekyll
-gh-badge: [star, fork, follow]
-tags: [test]
+title: Machine Learning Powered Medicinal Chemistry
+subtitle: with Aaron Morris
+tags: [chemistry, ml, medtech]
 comments: true
 ---
-
 
 Co-founder and CEO Aaron Morris completed his masters at Oxford university in Mathematics after which he joined Goldman Sachs as an analyst in London, trading equity derivatives with a focus on event-driven strategies.
 
