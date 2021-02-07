@@ -1004,7 +1004,8 @@ pre {
 .styles__socialWrapper___3PT7B {
   width: 810px;
   margin: auto;
-  padding: 12px 0 20px 0; }
+  padding: 12px 0 20px 0;
+  display: block; }
   @media (max-width: 991px) {
     .styles__socialWrapper___3PT7B {
       width: 770px; } }
