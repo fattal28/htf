@@ -15,6 +15,7 @@ author: SF & DP
 
 navbar-links:
   About: "about"
+  Tweets: "tweets"
   # Resources:
   #   - Beautiful Jekyll: "https://beautifuljekyll.com"
   #   - Learn markdown: "https://www.markdowntutorial.com/"
