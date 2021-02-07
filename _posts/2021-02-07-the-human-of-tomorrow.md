@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "004: Luggage Storage"
-subtitle: with Jacob Wedderburn-Day
-tags: [travel, storage]
+title: "017: The Human of Tomorrow"
+subtitle: with Zoltan Istvan
+tags: [tech, ml, transhumanism, philosophy]
 comments: true
 ---
 
