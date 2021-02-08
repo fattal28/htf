@@ -2,7 +2,7 @@
 layout: post
 title: "006: Your Next Job in Tech"
 subtitle: with Sam Franklin
-tags: [recruitment, tech, hr]
+tags: [recruitment, hr, startups]
 comments: true
 ---
 

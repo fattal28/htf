@@ -2,7 +2,7 @@
 layout: post
 title: "005: Venture Capital at TPY"
 subtitle: with Dan Pinchasi
-tags: [vc, startups, enterprise, investing]
+tags: [vc, startups, investing]
 comments: true
 ---
 

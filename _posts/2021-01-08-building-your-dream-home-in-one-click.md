@@ -2,7 +2,7 @@
 layout: post
 title: "013: Building Your Dream Home in One-Click"
 subtitle: with Nick Donahue
-tags: [real-estate, tech, design]
+tags: [real-estate, design, startups, travel]
 comments: true
 ---
 
