@@ -2,7 +2,7 @@
 layout: post
 title: "014: Life Insurance That Pays You"
 subtitle: with Sammy Rubin
-tags: [insurance, gamification, wellness, legal]
+tags: [insurance, wellness, legal, philosophy]
 comments: true
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: "001: Machine Learning Powered Medicinal Chemistry"
 subtitle: with Aaron Morris
-tags: [chemistry, ml, medtech]
+tags: [ai, ml, drugs, medtech]
 comments: true
 ---
 

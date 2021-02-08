@@ -2,7 +2,7 @@
 layout: post
 title: "011: Connecting the Financial Dots in Latin America"
 subtitle: with Pablo Viguera
-tags: [banking, fintech, latam]
+tags: [banking, fintech, investing]
 comments: true
 ---
 

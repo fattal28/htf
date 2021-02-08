@@ -2,7 +2,7 @@
 layout: post
 title: "012: Your Digital Immunity Passport"
 subtitle: with Gabi Hakim
-tags: [medtech, vaccinations]
+tags: [medtech, vaccinations, startups, students]
 comments: true
 ---
 

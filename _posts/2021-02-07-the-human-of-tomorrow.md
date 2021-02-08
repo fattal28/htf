@@ -2,7 +2,7 @@
 layout: post
 title: "017: The Human of Tomorrow"
 subtitle: with Zoltan Istvan
-tags: [tech, ai, transhumanism, philosophy]
+tags: [ai, ml, transhumanism, philosophy]
 comments: true
 ---
 

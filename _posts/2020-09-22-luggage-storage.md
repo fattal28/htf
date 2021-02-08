@@ -2,7 +2,7 @@
 layout: post
 title: "004: Luggage Storage"
 subtitle: with Jacob Wedderburn-Day
-tags: [travel, storage]
+tags: [travel, storage, entrepeneurship]
 comments: true
 ---
 
